@@ -2,3 +2,4 @@ ISLP-notes
 .obsidian
 *.jpg
 *.md
+!README.md
